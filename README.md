@@ -9,3 +9,7 @@ Use arm64 tag of official Nginx container and ready to deploy in Raspberry Pi
 ### Flannel for Raspberry Pi
 
 Use arm64 tag of official containers and ready to deploy in Raspberry Pi
+
+### K8s Dashboard for Raspberry Pi
+
+Use arm64 tag of official containers and ready to deploy in Raspberry Pi
